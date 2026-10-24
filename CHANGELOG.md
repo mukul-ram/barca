@@ -8,6 +8,12 @@ GitHub Releases, apart from the upgrade notes kept below for 0.10.0 to 0.20.0; t
 
 ## Pending
 
+### Features
+
+- Make CLI help concise, group root commands by purpose, and add `--examples` on commands
+  and nested commands for the complete tested example collection. Detailed behavior stays
+  in the built-in manual; help and examples run without loading a project.
+
 ## 0.32.0 (2026-10-24)
 
 ### Breaking
